@@ -20,3 +20,7 @@
 ## Confirmar los cambios
 
 `git commit -m "mensaje descriptivo"`
+
+## Conocer el historial del proyecto
+
+`git log`
