@@ -24,3 +24,9 @@
 ## Conocer el historial del proyecto
 
 `git log`
+
+# HTML
+
+## abreviación para plantilla HTML
+
+`!` o `html:5` en un archivo con extesión .html
