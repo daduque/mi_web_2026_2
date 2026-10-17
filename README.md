@@ -59,3 +59,7 @@ Aquí estoy construyendo algo
 - section
 - nav
 - aside
+- p
+- a
+- img
+- figure
