@@ -1,3 +1,30 @@
-* {
+:root {
     font-family: 'Helvetica Neue', sans-serif;
+}
+
+#main_text{
+    color:rgb(126, 112, 0)
+}
+
+article.noticia-blog p.noticia-blog__resumen.mi-entrada#main_text{
+    color: red;
+}
+
+article{
+    font-size: 36px;
+    color: red;
+    width: 100%;
+}
+
+article {
+    color: green;
+    font-family: 'Times New Roman', serif !important;
+}
+
+p{
+    color: blue !important;
+}
+
+.social-icons svg{
+    width: 48px;
 }
